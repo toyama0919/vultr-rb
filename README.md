@@ -1,5 +1,5 @@
 # Vultr
-### The best tested and most popular ruby gem to interact with the Vultr API.
+### The (soon to be) best tested and most popular ruby gem to interact with the Vultr API.
 
 Vultr provides simple cloud hosting. Create and delete
 virtual machines within seconds.
