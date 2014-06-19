@@ -28,7 +28,7 @@ Or install it yourself as:
 
 ## Prerequisite: Create an account and API credentials
 
-[![Create API credentials](http://i.imgur.com/96q4zCx.png)](https://www.digitalocean.com/login)
+[![Create API credentials](https://lh5.googleusercontent.com/-d1490uf_xHU/U6Nonyuw4TI/AAAAAAAAfSs/RgziZVNjCIA/w954-h793-no/Vultr_API_Key_example.png)](https://www.vultr.com/register/)
 
 ## Usage
 
